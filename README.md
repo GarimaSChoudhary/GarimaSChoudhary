@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GarimaSChoudhary
 - 👀 I’m interested in Data Analytics and Visualization, Project Management 
 - 🌱 I’m currently pursuing Master of Science in Information Systems
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me choudharygaima16@gmail.com
 
 <!---
