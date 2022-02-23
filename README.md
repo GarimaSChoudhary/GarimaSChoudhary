@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GarimaSChoudhary
-- 👀 I’m interested in Data Analytics and Visualization, Project Management 
+- 👀 I’m interested in Software Engineering, Data Analytics and Visualization, and Product Management 
 - 🌱 I’m currently pursuing Master of Science in Information Systems at Northeastern University
 - 📫 How to reach me choudharygaima16@gmail.com
 
