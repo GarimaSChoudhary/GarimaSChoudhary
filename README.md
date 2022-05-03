@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Master of Science in Information Systems at Northeastern University
 - 📫 How to reach me choudhary.g@northeastern.edu
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&label=Profile+Views+for+GarimaSChoudhary)
 
 <!---
 GarimaSChoudhary/GarimaSChoudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
