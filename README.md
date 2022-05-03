@@ -5,6 +5,12 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&label=Profile+Views+for+GarimaSChoudhary)
 
+![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarimaSChoudhary&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaSChoudhary&layout=compact)
+
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garimaschoudhary&repo=garimaschoudhary) -->
+
 <!---
 GarimaSChoudhary/GarimaSChoudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
