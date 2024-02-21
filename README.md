@@ -7,22 +7,6 @@
 
 [![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarimaSChoudhary&show_icons=true&theme=radical)](https://github.com/garimaschoudhary/garimaschoudhary)
 
-const garima = {
-    pronouns: "she" | "her",
-    code: ["Javascript", "Python", "R", "SQL", "C#", "HTML", "CSS", "Java"],
-    askMeAbout: ["web dev", "front end", "back end", "full stack", "data analytics", "tech", "coffee"],
-    technologies: {
-        frontEnd: {
-            css: ["bootstrap", "materialize", "tailwindcss"],
-            js: ["React", "Angular", "NextJs", "Rescript"]
-        },
-        backEnd: {
-            js: ["firebase", "node", "express"]
-        },
-        databases: ["MySQL","RSQLite", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Tableau", "AWS", "Selenium", "Jupyter Notebook", "Cypress", "Google Cloud Platform", "Airflow"]
-    }
-};
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaSChoudhary&layout=compact)](https://github.com/garimaschoudhary/garimaschoudhary) -->
 
